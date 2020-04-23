@@ -1,16 +1,9 @@
 # provider_example
 
-A new Flutter project.
+A quick and dirty explanation of flutter provider package, in 4 steps
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Provider is a great state management tool, but for starters it is a pain to grasp terms like Provider.of, ChangeNotifier, Consumer etc. Even, what does even provider provides?
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So just open *lib/main.dart* and read the comments. Hopefully it will bridge the gap between theory and implementation of provider!
